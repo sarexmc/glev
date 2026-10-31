@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "supernova:block/gleba_moss_top",
+    "side": "supernova:block/gleba_moss_side",
+    "bottom": "supernova:block/gleba_soil"
+  }
+}

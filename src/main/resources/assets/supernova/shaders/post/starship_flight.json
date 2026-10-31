@@ -1,0 +1,23 @@
+{
+  "targets": [
+    "flight_scene"
+  ],
+  "passes": [
+    {
+      "name": "supernova:starship_flight",
+      "intarget": "minecraft:main",
+      "outtarget": "flight_scene",
+      "auxtargets": [
+        {
+          "name": "DiffuseDepthSampler",
+          "id": "minecraft:main:depth"
+        }
+      ]
+    },
+    {
+      "name": "supernova:starship_impulse",
+      "intarget": "flight_scene",
+      "outtarget": "minecraft:main"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "supernova:block/gleba_stalk"
+    },
+    "axis=x": {
+      "model": "supernova:block/gleba_stalk",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z": {
+      "model": "supernova:block/gleba_stalk",
+      "x": 90
+    }
+  }
+}

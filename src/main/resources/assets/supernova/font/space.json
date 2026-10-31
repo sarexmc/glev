@@ -1,0 +1,29 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        " ": 5
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "supernova:font/space.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "ABCDEFGHIJKLMNOP",
+        "QRSTUVWXYZ012345",
+        "6789.,:;-+/%!?()",
+        "_'=<>*·►●○°¡¿[]▼",
+        " ÁÉÍÓÚÜÑabcdefgh",
+        "ijklmnopqrstuvwx",
+        "yzáéíóúüñ\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      ]
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/default"
+    }
+  ]
+}

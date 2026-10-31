@@ -1,0 +1,144 @@
+{
+  "supernova_explosion": {
+    "sounds": [
+      {
+        "name": "supernova:supernova_explosion",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.supernova.explosion"
+  },
+  "rumble": {
+    "sounds": [
+      {
+        "name": "supernova:supernova_rumble",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.supernova.rumble"
+  },
+  "ship_launch": {
+    "sounds": [
+      {
+        "name": "supernova:ship_launch",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.supernova.ship_launch"
+  },
+  "ship_warp": {
+    "sounds": [
+      {
+        "name": "supernova:ship_warp",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.supernova.ship_warp"
+  },
+  "beep": {
+    "sounds": [
+      {
+        "name": "supernova:beep",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.supernova.beep"
+  },
+  "ringing": {
+    "sounds": [
+      {
+        "name": "supernova:ringing",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.supernova.ringing"
+  },
+  "engine_charge": {
+    "sounds": [
+      {
+        "name": "supernova:engine_charge"
+      }
+    ],
+    "subtitle": "subtitles.supernova.engine_charge"
+  },
+  "ignition": {
+    "sounds": [
+      {
+        "name": "supernova:ignition"
+      }
+    ],
+    "subtitle": "subtitles.supernova.ignition"
+  },
+  "engine_loop": {
+    "sounds": [
+      {
+        "name": "supernova:engine_loop"
+      }
+    ],
+    "subtitle": "subtitles.supernova.engine_loop"
+  },
+  "atmos_wind": {
+    "sounds": [
+      {
+        "name": "supernova:atmos_wind"
+      }
+    ],
+    "subtitle": "subtitles.supernova.atmos_wind"
+  },
+  "reentry_roar": {
+    "sounds": [
+      {
+        "name": "supernova:reentry_roar"
+      }
+    ],
+    "subtitle": "subtitles.supernova.reentry_roar"
+  },
+  "warp_whoosh": {
+    "sounds": [
+      {
+        "name": "supernova:warp_whoosh"
+      }
+    ],
+    "subtitle": "subtitles.supernova.warp_whoosh"
+  },
+  "landing_thud": {
+    "sounds": [
+      {
+        "name": "supernova:landing_thud"
+      }
+    ],
+    "subtitle": "subtitles.supernova.landing_thud"
+  },
+  "alarm": {
+    "sounds": [
+      {
+        "name": "supernova:alarm"
+      }
+    ],
+    "subtitle": "subtitles.supernova.alarm"
+  },
+  "space_hum": {
+    "sounds": [
+      {
+        "name": "supernova:space_hum"
+      }
+    ],
+    "subtitle": "subtitles.supernova.space_hum"
+  },
+  "shockwave": {
+    "sounds": [
+      {
+        "name": "supernova:shockwave"
+      }
+    ],
+    "subtitle": "subtitles.supernova.shockwave"
+  },
+  "wind_gust": {
+    "sounds": [
+      {
+        "name": "supernova:wind_gust"
+      }
+    ],
+    "subtitle": "subtitles.supernova.wind_gust"
+  }
+}
