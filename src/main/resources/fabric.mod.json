@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "supernova",
+  "version": "${version}",
+  "name": "Supernova",
+  "description": "Supernova en dos partes, bunker, nave espacial de hierro con tanques de dilitio y el planeta Gleba.",
+  "authors": [
+    "Supernova"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.supernova.SupernovaMod"
+    ],
+    "client": [
+      "com.supernova.client.SupernovaClient"
+    ]
+  },
+  "mixins": [
+    "supernova.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

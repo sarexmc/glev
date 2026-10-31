@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "supernova:gleba_soil",
+    "supernova:gleba_moss",
+    "supernova:gleba_sand"
+  ]
+}
